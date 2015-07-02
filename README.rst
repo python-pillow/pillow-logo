@@ -8,4 +8,4 @@ Introduction
 
 The Pillow logo was created by Alastair Houghton, see:
 
-    - https://github.com/python-pillow/Pillow/issues/575
+- https://github.com/python-pillow/Pillow/issues/575
