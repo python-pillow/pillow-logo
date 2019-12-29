@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="248" height="250" src="pillow-logo-248x250.png" alt="Pillow logo">
+</p>
+
 Pillow Logo
 ===========
 
